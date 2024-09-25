@@ -1,0 +1,7 @@
+1-Inicio
+2-Leer altura
+3-Leer base
+4-area ->altura*base
+5-perimetro -> altura*2 + base*2
+6-Mostrar área y perímetro
+7-Fin

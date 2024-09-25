@@ -1,0 +1,5 @@
+Ejercicio 1
+1-Inicio
+2-Leer nombre 
+3-Mostrar "un saludo nombre en pantalla"
+4-Fin
