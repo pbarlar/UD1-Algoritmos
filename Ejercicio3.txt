@@ -1,0 +1,7 @@
+Ejercicio3
+1-Inicio
+2-Leer cateto1
+3-Leer cateto2
+3-hipotenusa->RaizCuadrada(cateto1*cateto1 + cateto2*cateto2)
+4-Mostrar hipotenusa
+5-Fin
