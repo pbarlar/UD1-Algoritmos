@@ -9,6 +9,6 @@ Algoritmo Ejercicio10
 	Escribir 'Indica nota trabajo final: '
 	Leer trabajo
 	porcentaje3 <- trabajo*0.15
-	notatotal <- trunc(porcentaje1+porcentaje2+porcentaje3/3)
-	Escribir 'Tu calificación final en la materia de algoritmos es un ', notatotal
+	notatotal <- trunc((porcentaje1+porcentaje2+porcentaje3)/3)
+	Escribir 'Tu calificaciÃ³n final en la materia de algoritmos es un ', notatotal
 FinAlgoritmo
